@@ -1,7 +1,7 @@
 Raven Core integration/staging tree
 =====================================
 
-https://ravencoin.org
+
 
 What is Ravencoin?
 ----------------
